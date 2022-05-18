@@ -16,3 +16,10 @@ Overview and cheat sheet of git commands.
 * 'git log' - gives history of commits on working branch
 * git status - gives status of working tree
 * git log  --oneline - compact listing of commit history
+* git config -l ; Gives confic information for local repo
+
+### Branching commands
+
+* Git branch - lists local branches
+* Git checkout branchname - changes branch to branchname
+* Git branch branchname - creates a local branche
