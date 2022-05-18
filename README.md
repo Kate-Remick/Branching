@@ -15,7 +15,7 @@
 * 'git log' - gives history of commits on working branch
 * git status - gives status of working tree
 * git log  --oneline - compact listing of commit history
-
+* git config -l ; Gives confic information for local repo
 
 ### Branching commands
 
