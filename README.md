@@ -12,5 +12,6 @@
 
 ### Informational commands
 
-* 'git log' - gives information on each committed
+* 'git log' - gives history of commits on working branch
 * git status - gives status of working tree
+* git log  --oneline - compact listing of commit history
