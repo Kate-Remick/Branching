@@ -15,3 +15,10 @@
 * 'git log' - gives history of commits on working branch
 * git status - gives status of working tree
 * git log  --oneline - compact listing of commit history
+
+
+### Branching commands
+
+* Git branch - lists local branches
+* Git checkout branchname - changes branch to branchname
+* Git branch branchname - creates a local branche
